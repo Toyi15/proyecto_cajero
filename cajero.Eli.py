@@ -117,4 +117,6 @@ while True:
     else:
 
         print('Error: no seleccionó una opción válida')
+        lista=["yuli" , "karo" , "yoo"]
+        print("ajaaj")
  
